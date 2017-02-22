@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798454983111",
+    "firebase_url": "https://shopdeals-2ecbc.firebaseio.com",
+    "project_id": "shopdeals-2ecbc",
+    "storage_bucket": "shopdeals-2ecbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798454983111:android:1d8aed46e285c6a5",
+        "android_client_info": {
+          "package_name": "me.pulkitkumar.shopdeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798454983111-no19f58d9ttqof23p4at7ke7h88m31rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.pulkitkumar.shopdeals",
+            "certificate_hash": "1A0AA7444C56707B760B4D362BCE0CA80715E109"
+          }
+        },
+        {
+          "client_id": "798454983111-ukka2gthmq5546th4h5r32qtvrpaigg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1L-MFHkCrim6YQHF8DiLyh8hNv9n9BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798454983111-ukka2gthmq5546th4h5r32qtvrpaigg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
